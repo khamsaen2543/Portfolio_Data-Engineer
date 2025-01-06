@@ -2,4 +2,5 @@
 ตัวอย่างการสร้างคลังข้อมูลเพื่อสร้าง Portfolio สำหรับ Data Engineer
 
 โปรเจกต์
-1. "Sales Insight Analyzer" 06/01/2568
+1. "Sales Insight Analyzer" 
+2. "Pandemic Data Analysis" 
